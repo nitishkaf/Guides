@@ -9,3 +9,5 @@ The repository contains the various readme files serves as a central hub of info
 These are the list of guides contained within this repository.
 
 1. [Contributing to Open Source](https://github.com/nitishkaf/Guides/blob/main/Contributing_to_Open_Source.md)
+
+2. [Terminal Setup with iTerm2 & powerlevel10k](https://github.com/nitishkaf/Guides/blob/main/Terminal_Setup.md)
