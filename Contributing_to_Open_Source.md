@@ -1,19 +1,19 @@
 
-# Contributing to Open Source via Git/GitHub
+# Contributing to Open Source via Git/GitHub 👨🏻‍💻
 
 In this documentation, we will explore a step-by-step guide on how to contribute to open source, including forking a repository, creating a new branch, making changes, creating a pull request, and more. Whether you're a seasoned developer or just starting out, this guide will help you navigate the world of open source and make your first contribution.
-## Install Git and Sign Up to Github
+## Install Git and Sign Up to Github 💻
 
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
 - [Git First Time Setup Instructions](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 
-## Let's get Started
+## Let's get Started 🏁
 
 Open the repository of the project that you want to contribute to.
 
 ### Fork the repository:
-Click the **Fork** button on the repository's [GitHub](https://github.com/) page. 
+Click the **Fork** button on the repository's [GitHub](https://github.com/) page.
 
 Once you have forked a repository, you will find the copy of the repository under your own GitHub account.
 
@@ -61,7 +61,7 @@ On your forked repository page, click the **New pull request** button. Select th
 
 ### Wait for review and feedback:
 
-The repository's maintainers will **review** your changes and provide feedback if needed. 
+The repository's maintainers will **review** your changes and provide feedback if needed.
 
 Be sure to respond to any feedback and make any requested changes to your code.
 
@@ -69,7 +69,7 @@ Be sure to respond to any feedback and make any requested changes to your code.
 
 Once your pull request has been approved, you can merge your changes into the original repository's branch by clicking the **Merge** button on your pull request page.
 
-### And that's it! 
+### And that's it! ✅
 
 And that's it! You've successfully contributed to an open source project.
 ## Authors
