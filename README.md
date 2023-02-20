@@ -1,4 +1,3 @@
-
 # 📕 Guides
 
 The repository contains the various readme files serves as a central hub of information for contributors, providing essential documentation on the project's structure, contribution process, goals, and more, for **Takeo Full Stack Developer Bootcamp**!
@@ -14,6 +13,7 @@ These are the list of guides contained within this repository.
 ## External Resources
 
 1. [HTML & CSS - Guide by Shay Howe](https://learn.shayhowe.com/)
+2. [CanIUse - Check Browser Compatibility](https://caniuse.com/)
 
 Flexbox:
 
