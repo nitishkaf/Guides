@@ -14,6 +14,7 @@ These are the list of guides contained within this repository.
 
 1. [HTML & CSS - Guide by Shay Howe](https://learn.shayhowe.com/)
 2. [CanIUse - Check Browser Compatibility](https://caniuse.com/)
+3. [JavaScript - Study Material + Tasks](https://javascript.info/js)
 
 Flexbox:
 
