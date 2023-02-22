@@ -11,5 +11,6 @@
 ### Challenges
 
 1. [Capitalize Challenge](Challenge_Capitalize.md)
-2. [Guess the Number - 1](Challenge_Guess_The_Number_1.md)
-3. [Guess the Number - 2](Challenge_Guess_The_Number_2.md)
+2. [Random Number Generator](Challenge_Number.md)
+3. [Guess the Number - 1](Challenge_Guess_The_Number_1.md)
+4. [Guess the Number - 2](Challenge_Guess_The_Number_2.md)
