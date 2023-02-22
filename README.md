@@ -10,6 +10,11 @@ These are the list of guides contained within this repository.
 
 2. [Terminal Setup with iTerm2 & powerlevel10k](https://github.com/nitishkaf/Guides/blob/main/Terminal_Setup.md)
 
+## Interview Prep
+
+1. [Frontend Developer Interview Prep Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
+2. [Technical Interview Handbook](https://www.techinterviewhandbook.org/)
+
 ## External Resources
 
 1. [HTML & CSS - Guide by Shay Howe](https://learn.shayhowe.com/)
