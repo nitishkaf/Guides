@@ -1,16 +1,16 @@
 # Type Conversion in JavaScript
 
-Type conversion, also known as typecasting, is the process of converting a value from one data type to another. 
+Type conversion, also known as typecasting, is the process of converting a value from one data type to another.
 
 In this document, we will explore the different types of type conversions in JavaScript.
 
 ## Implicit Type Conversion
 
-Implicit type conversion, also known as **type coercion**, is an **automatic** conversion that happens when an operator is applied to values of different data types. 
+Implicit type conversion, also known as **type coercion**, is an **automatic** conversion that happens when an operator is applied to values of different data types.
 
 JavaScript automatically converts one of the values to a common data type to perform the operation. For example:
 
-```
+```js
 var num = 10;
 var str = "20";
 console.log(num + str); // Output: "1020"
@@ -27,7 +27,7 @@ Explicit type conversion, also known as **type casting**, is a **manual** conver
 
 The `Number()` method converts a value to a number data type. If the value cannot be converted to a number, it returns NaN (Not a Number). For example:
 
-```
+```js
 var str = "10";
 console.log(Number(str)); // Output: 10
 
@@ -37,7 +37,7 @@ console.log(Number(str)); // Output: 10
 
 The `String()` method converts a value to a string data type. For example:
 
-```
+```js
 var num = 10;
 console.log(String(num)); // Output: "10"
 
@@ -56,7 +56,7 @@ The `Boolean()` method converts a value to a boolean data type. The following va
 
 All other values are converted to true. For example:
 
-```
+```js
 var num = 0;
 console.log(Boolean(num)); // Output: false
 
