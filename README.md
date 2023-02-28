@@ -36,3 +36,4 @@ JavaScript
 
 1. [JS Robot](https://lab.reaal.me/jsrobot/#)
 2. [Asynchronous JavaScript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+3. [List of public APIs](https://github.com/public-api-lists/public-api-lists)
