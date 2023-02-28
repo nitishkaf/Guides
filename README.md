@@ -35,3 +35,4 @@ Grid:
 JavaScript
 
 1. [JS Robot](https://lab.reaal.me/jsrobot/#)
+2. [Asynchronous JavaScript](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
